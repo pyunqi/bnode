@@ -1,0 +1,2 @@
+# bnode
+node for preliminary
